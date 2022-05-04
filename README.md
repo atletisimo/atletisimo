@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me: Twitter - https://twitter.com/Tamara54941814 Linkedin - https://www.linkedin.com/in/tamara-a-6a0b70150/
 -  🔭 Languages and tools: 
--  <img src="https://codecondo.com/wp-content/uploads/2017/08/Front-end-development-languages.jpg" width="300px" height="250px"/>
+-  <img src="https://codecondo.com/wp-content/uploads/2017/08/Front-end-development-languages.jpg" width="250px" height="250px"/>
+-  <img src="https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/97b31/React.jpg  width="250px" height="250px""
 
 
