@@ -15,5 +15,6 @@ Here are some ideas to get you started:
  <img src="https://codecondo.com/wp-content/uploads/2017/08/Front-end-development-languages.jpg" width="150px" height="150px"/>
  <img src="https://reactjs.org/logo-og.png" width="150px" height="150px"/>
  <img src="https://s1.o7planning.com/en/11695/images/21379762.png" width="150px" height="150px"/>
+ STATS
  <img src="(https://github-readme-stats.vercel.app/api/pin/?username=atletisimo&repo=github-readme-stats)](https://github.com/atletisimo/github-readme-stats)"/>
 
