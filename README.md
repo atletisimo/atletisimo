@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me: Twitter - https://twitter.com/Tamara54941814 Linkedin - https://www.linkedin.com/in/tamara-a-6a0b70150/
+- 
 
 
