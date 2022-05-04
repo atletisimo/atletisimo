@@ -12,8 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter - https://twitter.com/Tamara54941814 Linkedin - https://www.linkedin.com/in/tamara-a-6a0b70150/
 -  🔭 Languages and tools: 
 <div align="center">
- <img src="https://codecondo.com/wp-content/uploads/2017/08/Front-end-development-languages.jpg" width="150px" height="150px"/>
- <img src="https://reactjs.org/logo-og.png" width="150px" height="150px"/>
- <img src="https://s1.o7planning.com/en/11695/images/21379762.png" width="150px" height="150px"/>
- <img src="https://yt3.ggpht.com/ytc/AKedOLRrH_wT7RwStCNum43bUnEavYBJNISAWhmMJgJWOg=s900-c-k-c0x00ffffff-no-rj" width="150px" height="150px"/>
+ <img src="https://codecondo.com/wp-content/uploads/2017/08/Front-end-development-languages.jpg" width="100px" height="100px"/>
+ <img src="https://reactjs.org/logo-og.png" width="100px" height="100px"/>
+ <img src="https://s1.o7planning.com/en/11695/images/21379762.png" width="100px" height="100px"/>
+ <img src="https://yt3.ggpht.com/ytc/AKedOLRrH_wT7RwStCNum43bUnEavYBJNISAWhmMJgJWOg=s900-c-k-c0x00ffffff-no-rj" width="100px" height="100px"/>
+ <img src="https://helpx.adobe.com/content/dam/help/en/xd/get-started/jcr_content/main-pars/step_with_text/step-with-text-pars/imageandtext/imageandtextimage/XD.png"
+      width="100px" height="100px"/>
  </div>
