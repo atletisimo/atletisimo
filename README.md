@@ -16,4 +16,4 @@ Here are some ideas to get you started:
  <img src="https://reactjs.org/logo-og.png" width="150px" height="150px"/>
  <img src="https://s1.o7planning.com/en/11695/images/21379762.png" width="150px" height="150px"/>
  
-<img src="https://github.com/anuraghazra/github-readme-stats#themes"/>
+<img><a href="https://github.com/anuraghazra/github-readme-stats#themes"></a>
