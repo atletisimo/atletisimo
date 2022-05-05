@@ -18,4 +18,5 @@ Here are some ideas to get you started:
  <img src="https://yt3.ggpht.com/ytc/AKedOLRrH_wT7RwStCNum43bUnEavYBJNISAWhmMJgJWOg=s900-c-k-c0x00ffffff-no-rj" width="100px" height="100px"/>
  <img src="https://helpx.adobe.com/content/dam/help/en/xd/get-started/jcr_content/main-pars/step_with_text/step-with-text-pars/imageandtext/imageandtextimage/XD.png"
       width="100px" height="100px"/>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8rSXZr5StQxaOvFwbkvwspPjOXCsvrxr-4w&usqp=CAU" width="100px" height="100px"/>
  </div>
