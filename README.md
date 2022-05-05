@@ -21,3 +21,4 @@ Here are some ideas to get you started:
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8rSXZr5StQxaOvFwbkvwspPjOXCsvrxr-4w&usqp=CAU" width="100px" height="100px"/>
  <img src="https://crackcube.com/wp-content/uploads/2021/05/Reallusion-Cartoon-Animator-Crack.png" width="100px" height="100px"/>
  </div>
+<img src="https://github-readme-stats.vercel.app/api?username=atletisimo&show_icons=true&theme=radical" width="400">
