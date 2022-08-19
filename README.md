@@ -1,4 +1,4 @@
-### Hi there,i am Tamara 👋
+### Hi there,i am Tamara 👋 https://tamaraackovska.netlify.app/
 
 <!--
 **atletisimo/atletisimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <h3 align="center"> ✨Statistics:</h3> <div align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=atletisimo&show_icons=true&theme=radical" width="400">
 </div>
-https://tamaraackovska.netlify.app/
+
